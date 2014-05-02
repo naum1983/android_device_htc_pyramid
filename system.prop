@@ -13,5 +13,5 @@ ro.telephony.ril.v3=datacallapn,signalstrength
 wifi.interface=wlan0
 
 # UMS
-persist.sys.usb.config=mass_storage,adb
+persist.sys.usb.config=mtp
 ro.vold.umsdirtyratio=20
